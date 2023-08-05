@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <string name="user_name">User Name</string>
+    <string name="e_mail">E mail</string>
+    <string name="password">********</string>
+    <string name="repassword">*******</string>
+    <string name="register">REGISTER</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="app_name">SEU/IS/17/ICT/064</string>
+    <string name="user_name_">User Name</string>
+    <string name="E_mail">E mail</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+</resources>
